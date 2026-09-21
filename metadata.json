@@ -1,0 +1,6 @@
+{
+  "name": "C-TOwn",
+  "description": "A modern, cinematic music-streaming platform by ARYAN Brand with dynamic color reactive atmosphere, online search, cross-platform streaming, and phone verification.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
